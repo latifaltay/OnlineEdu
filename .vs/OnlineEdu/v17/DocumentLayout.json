@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85F9DAEA-B705-4930-9E94-64BAE92AA59F}|OnlineEdu.Entity\\OnlineEdu.Entity.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.entity\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F9DAEA-B705-4930-9E94-64BAE92AA59F}|OnlineEdu.Entity\\OnlineEdu.Entity.csproj|solutionrelative:onlineedu.entity\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211585C6-8E81-4F7C-AF02-64CD71AACA09}|OnlineEdu.API\\OnlineEdu.API.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{211585C6-8E81-4F7C-AF02-64CD71AACA09}|OnlineEdu.API\\OnlineEdu.API.csproj|solutionrelative:onlineedu.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F9DAEA-B705-4930-9E94-64BAE92AA59F}|OnlineEdu.Entity\\OnlineEdu.Entity.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.entity\\entities\\blogcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F9DAEA-B705-4930-9E94-64BAE92AA59F}|OnlineEdu.Entity\\OnlineEdu.Entity.csproj|solutionrelative:onlineedu.entity\\entities\\blogcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211585C6-8E81-4F7C-AF02-64CD71AACA09}|OnlineEdu.API\\OnlineEdu.API.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.api\\onlineedu.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{211585C6-8E81-4F7C-AF02-64CD71AACA09}|OnlineEdu.API\\OnlineEdu.API.csproj|solutionrelative:onlineedu.api\\onlineedu.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.DataAccess\\Migrations\\20240823103435_initial_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineEdu.DataAccess\\Migrations\\20240823103435_initial_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9DAEA-B705-4930-9E94-64BAE92AA59F}|OnlineEdu.Entity\\OnlineEdu.Entity.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.entity\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F9DAEA-B705-4930-9E94-64BAE92AA59F}|OnlineEdu.Entity\\OnlineEdu.Entity.csproj|solutionrelative:onlineedu.entity\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9DAEA-B705-4930-9E94-64BAE92AA59F}|OnlineEdu.Entity\\OnlineEdu.Entity.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.entity\\entities\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F9DAEA-B705-4930-9E94-64BAE92AA59F}|OnlineEdu.Entity\\OnlineEdu.Entity.csproj|solutionrelative:onlineedu.entity\\entities\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211585C6-8E81-4F7C-AF02-64CD71AACA09}|OnlineEdu.API\\OnlineEdu.API.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211585C6-8E81-4F7C-AF02-64CD71AACA09}|OnlineEdu.API\\OnlineEdu.API.csproj|solutionrelative:onlineedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F39C88-6ACB-4DEC-BE42-427156A7B983}|OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.dataaccess\\context\\onlineeducontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F39C88-6ACB-4DEC-BE42-427156A7B983}|OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj|solutionrelative:onlineedu.dataaccess\\context\\onlineeducontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 281,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.Entity\\Entities\\Blog.cs",
-              "RelativeDocumentMoniker": "OnlineEdu.Entity\\Entities\\Blog.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.Entity\\Entities\\Blog.cs",
-              "RelativeToolTip": "OnlineEdu.Entity\\Entities\\Blog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T09:46:03.055Z",
+              "DocumentIndex": 1,
+              "Title": "OnlineEdu.API",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj",
+              "RelativeDocumentMoniker": "OnlineEdu.API\\OnlineEdu.API.csproj",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj",
+              "RelativeToolTip": "OnlineEdu.API\\OnlineEdu.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T10:37:35.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BlogCategory.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.Entity\\Entities\\BlogCategory.cs",
-              "RelativeDocumentMoniker": "OnlineEdu.Entity\\Entities\\BlogCategory.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.Entity\\Entities\\BlogCategory.cs",
-              "RelativeToolTip": "OnlineEdu.Entity\\Entities\\BlogCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "DocumentIndex": 2,
+              "Title": "20240823103435_initial_mig.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.DataAccess\\Migrations\\20240823103435_initial_mig.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.DataAccess\\Migrations\\20240823103435_initial_mig.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.DataAccess\\Migrations\\20240823103435_initial_mig.cs",
+              "RelativeToolTip": "OnlineEdu.DataAccess\\Migrations\\20240823103435_initial_mig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T09:45:57.765Z",
+              "WhenOpened": "2024-08-23T10:34:35.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.Entity\\Entities\\Banner.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.Entity\\Entities\\Banner.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.Entity\\Entities\\Banner.cs",
+              "RelativeToolTip": "OnlineEdu.Entity\\Entities\\Banner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:33:51.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.Entity\\Entities\\About.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.Entity\\Entities\\About.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.Entity\\Entities\\About.cs",
+              "RelativeToolTip": "OnlineEdu.Entity\\Entities\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:33:38.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.API\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.API\\Program.cs",
+              "RelativeToolTip": "OnlineEdu.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:18:57.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineEdu.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.API\\appsettings.json",
+              "RelativeToolTip": "OnlineEdu.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T10:00:05.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnlineEduContext.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.DataAccess\\Context\\OnlineEduContext.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.DataAccess\\Context\\OnlineEduContext.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.DataAccess\\Context\\OnlineEduContext.cs",
+              "RelativeToolTip": "OnlineEdu.DataAccess\\Context\\OnlineEduContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:55:43.437Z",
               "EditorCaption": ""
             }
           ]
