@@ -171,9 +171,6 @@ namespace OnlineEdu.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CourseId"));
 
-                    b.Property<int>("CategoryId")
-                        .HasColumnType("int");
-
                     b.Property<int>("CourseCategoryId")
                         .HasColumnType("int");
 
