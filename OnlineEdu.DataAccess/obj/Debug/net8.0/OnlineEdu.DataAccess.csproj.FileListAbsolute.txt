@@ -9,8 +9,8 @@ C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineE
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.AssemblyInfo.cs
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.sourcelink.json
-C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEd.EAC0992C.Up2Date
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.dll
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\refint\OnlineEdu.DataAccess.dll
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.pdb
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\ref\OnlineEdu.DataAccess.dll
+C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.csproj.CopyComplete

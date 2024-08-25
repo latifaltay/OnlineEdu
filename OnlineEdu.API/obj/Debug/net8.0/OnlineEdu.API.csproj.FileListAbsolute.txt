@@ -71,7 +71,6 @@ C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\obj\Debug\net8.0\staticwebasset
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OnlineEdu.API.props
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\obj\Debug\net8.0\scopedcss\bundle\OnlineEdu.API.styles.css
-C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\obj\Debug\net8.0\OnlineEd.8A630DBF.Up2Date
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\obj\Debug\net8.0\OnlineEdu.API.dll
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\obj\Debug\net8.0\refint\OnlineEdu.API.dll
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\obj\Debug\net8.0\OnlineEdu.API.pdb
@@ -144,3 +143,4 @@ C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\bin\Debug\net8.0\ru\Microsoft.C
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.API\obj\Debug\net8.0\OnlineEdu.API.csproj.CopyComplete
