@@ -60,7 +60,7 @@ namespace OnlineEdu.DataAccess.Repositories
 
         public void Update(T entity)
         {
-            Table.Update();
+            Table.Update(entity);
             _context.SaveChanges(); 
         }
     }
