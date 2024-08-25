@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rLqw+uMXqgZa60v1xuvjehvTiqGluyOaGLodvxXZ1TPWO4uFdC4OjpnByw7ueIWPXar6vylB6AUJn8AaMH8Wdg==",
+  "dgSpecHash": "l7azvGjCzq4Gz69jLdFbNen+i0jtAaEjrMN9YPJ5WRT5kNSgF6XR+u6mnvlZxTid0YgHaB02RkL5/avrhZdSJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ELEYDEV\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
