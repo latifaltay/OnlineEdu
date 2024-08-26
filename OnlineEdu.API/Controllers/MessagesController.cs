@@ -12,28 +12,28 @@ namespace OnlineEdu.API.Controllers
     [ApiController]
     public class MessagesController(IGenericService<Message> _messageService, IMapper _mapper) : ControllerBase
     {
-        [HttpGet("GetAll")]
+        [HttpGet]
         public IActionResult Get()
         {
             var values = _messageService.TGetList();
             return Ok(values);
         }
 
-        [HttpGet("GetById {id}")]
+        [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
             var value = _messageService.TGetById(id);
             return Ok(value);
         }
 
-        [HttpDelete("Delete {id}")]
+        [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
             _messageService.TDelete(id);
             return Ok("Mesaj Alanı Silindi!");
         }
 
-        [HttpPost("Create")]
+        [HttpPost]
         public IActionResult Create(CreateMessageDto createMessageDto)
         {
             var newValue = _mapper.Map<Message>(createMessageDto);
@@ -41,7 +41,7 @@ namespace OnlineEdu.API.Controllers
             return Ok("Mesaj Alanı Oluşturuldu");
         }
 
-        [HttpPut("Update")]
+        [HttpPut]
         public IActionResult Update(UpdateMessageDto updateMessageDto)
         {
             var value = _mapper.Map<Message>(updateMessageDto);

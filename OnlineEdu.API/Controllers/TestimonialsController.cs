@@ -11,28 +11,28 @@ namespace OnlineEdu.API.Controllers
     [ApiController]
     public class TestimonialsController(IGenericService<Testimonial> _testimonial, IMapper _mapper) : ControllerBase
     {
-        [HttpGet("GetAll")]
+        [HttpGet]
         public IActionResult Get()
         {
             var values = _testimonial.TGetList();
             return Ok(values);
         }
 
-        [HttpGet("GetById {id}")]
+        [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
             var value = _testimonial.TGetById(id);
             return Ok(value);
         }
 
-        [HttpDelete("Delete {id}")]
+        [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
             _testimonial.TDelete(id);
             return Ok("Referans Alanı Silindi!");
         }
 
-        [HttpPost("Create")]
+        [HttpPost]
         public IActionResult Create(CreateTestimonialDto createTestimonialDto)
         {
             var newValue = _mapper.Map<Testimonial>(createTestimonialDto);
@@ -40,7 +40,7 @@ namespace OnlineEdu.API.Controllers
             return Ok("Referans Alanı Oluşturuldu");
         }
 
-        [HttpPut("Update")]
+        [HttpPut]
         public IActionResult Update(UpdateTestimonialDto updateTestimonialDto)
         {
             var value = _mapper.Map<Testimonial>(updateTestimonialDto);

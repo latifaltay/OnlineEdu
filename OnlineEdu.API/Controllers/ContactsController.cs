@@ -11,28 +11,28 @@ namespace OnlineEdu.API.Controllers
     [ApiController]
     public class ContactsController(IGenericService<Contact> _contactService, IMapper _mapper) : ControllerBase
     {
-        [HttpGet("GetAll")]
+        [HttpGet]
         public IActionResult Get()
         {
             var values = _contactService.TGetList();
             return Ok(values);
         }
 
-        [HttpGet("GetById {id}")]
+        [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
             var value = _contactService.TGetById(id);
             return Ok(value);
         }
 
-        [HttpDelete("Delete {id}")]
+        [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
             _contactService.TDelete(id);
             return Ok("İletişim Alanı Silindi!");
         }
 
-        [HttpPost("Create")]
+        [HttpPost]
         public IActionResult Create(CreateContactDto createContactDto)
         {
             var newValue = _mapper.Map<Contact>(createContactDto);
@@ -40,7 +40,7 @@ namespace OnlineEdu.API.Controllers
             return Ok("İletişim Alanı Oluşturuldu");
         }
 
-        [HttpPut("Update")]
+        [HttpPut]
         public IActionResult Update(UpdateContactDto updateContactDto)
         {
             var value = _mapper.Map<Contact>(updateContactDto);

@@ -12,28 +12,28 @@ namespace OnlineEdu.API.Controllers
     [ApiController]
     public class CourseCategoriesController(IGenericService<CourseCategory> _courseCategoryService, IMapper _mapper) : ControllerBase
     {
-        [HttpGet("GetAll")]
+        [HttpGet]
         public IActionResult Get()
         {
             var values = _courseCategoryService.TGetList();
             return Ok(values);
         }
 
-        [HttpGet("GetById {id}")]
+        [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
             var value = _courseCategoryService.TGetById(id);
             return Ok(value);
         }
 
-        [HttpDelete("Delete {id}")]
+        [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
             _courseCategoryService.TDelete(id);
             return Ok("Kurs Kategori Alanı Silindi!");
         }
 
-        [HttpPost("Create")]
+        [HttpPost]
         public IActionResult Create(CreateCourseCategoryDto createCourseCategoryDto)
         {
             var newValue = _mapper.Map<CourseCategory>(createCourseCategoryDto);
@@ -41,7 +41,7 @@ namespace OnlineEdu.API.Controllers
             return Ok("Kurs Kategori Alanı Oluşturuldu");
         }
 
-        [HttpPut("Update")]
+        [HttpPut]
         public IActionResult Update(UpdateCourseCategoryDto updateCourseCategoryDto)
         {
             var value = _mapper.Map<CourseCategory>(updateCourseCategoryDto);

@@ -12,28 +12,28 @@ namespace OnlineEdu.API.Controllers
     [ApiController]
     public class SocialMediasController(IGenericService<SocialMedia> _socialMediaService, IMapper _mapper) : ControllerBase
     {
-        [HttpGet("GetAll")]
+        [HttpGet]
         public IActionResult Get()
         {
             var values = _socialMediaService.TGetList();
             return Ok(values);
         }
 
-        [HttpGet("GetById {id}")]
+        [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
             var value = _socialMediaService.TGetById(id);
             return Ok(value);
         }
 
-        [HttpDelete("Delete {id}")]
+        [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
             _socialMediaService.TDelete(id);
             return Ok("Sosyal Medya Alanı Silindi!");
         }
 
-        [HttpPost("Create")]
+        [HttpPost]
         public IActionResult Create(CreateSocialMediaDto createSocialMediaDto)
         {
             var newValue = _mapper.Map<SocialMedia>(createSocialMediaDto);
@@ -41,7 +41,7 @@ namespace OnlineEdu.API.Controllers
             return Ok("Sosyal Medya Alanı Oluşturuldu");
         }
 
-        [HttpPut("Update")]
+        [HttpPut]
         public IActionResult Update(UpdateSocialMediaDto updateSocialMediaDto)
         {
             var value = _mapper.Map<SocialMedia>(updateSocialMediaDto);
