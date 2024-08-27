@@ -239,4 +239,4 @@ C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.WebUI\bin\Debug\net8.0\runtimes\win
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.WebUI\obj\Debug\net8.0\OnlineEdu.WebUI.csproj.AssemblyReference.cache
-C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.WebUI\obj\Debug\net8.0\OnlineEdu.WebUI.csproj.CopyComplete
+C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.WebUI\obj\Debug\net8.0\OnlineEd.EFB56684.Up2Date
