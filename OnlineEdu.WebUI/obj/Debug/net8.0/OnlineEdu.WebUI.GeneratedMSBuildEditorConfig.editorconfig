@@ -50,6 +50,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmFubmVyXFVwZGF0ZUJhbm5lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ELEYDEV/Desktop/OnlineEdu/OnlineEdu.WebUI/Areas/Admin/Views/BlogCategory/CreateBlogCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0NhdGVnb3J5XENyZWF0ZUJsb2dDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ELEYDEV/Desktop/OnlineEdu/OnlineEdu.WebUI/Areas/Admin/Views/BlogCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0NhdGVnb3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ELEYDEV/Desktop/OnlineEdu/OnlineEdu.WebUI/Areas/Admin/Views/BlogCategory/UpdateBlogCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0NhdGVnb3J5XFVwZGF0ZUJsb2dDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ELEYDEV/Desktop/OnlineEdu/OnlineEdu.WebUI/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
