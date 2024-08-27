@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\areas\\admin\\views\\about\\createabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\areas\\admin\\views\\about\\createabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\areas\\admin\\views\\banner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\areas\\admin\\views\\banner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211585C6-8E81-4F7C-AF02-64CD71AACA09}|OnlineEdu.API\\OnlineEdu.API.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{211585C6-8E81-4F7C-AF02-64CD71AACA09}|OnlineEdu.API\\OnlineEdu.API.csproj|solutionrelative:onlineedu.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\areas\\admin\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\areas\\admin\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\areas\\admin\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\areas\\admin\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\dtos\\bannerdtos\\updatebannerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\dtos\\bannerdtos\\updatebannerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\areas\\admin\\views\\banner\\updatebanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\areas\\admin\\views\\banner\\updatebanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\areas\\admin\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\areas\\admin\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211585C6-8E81-4F7C-AF02-64CD71AACA09}|OnlineEdu.API\\OnlineEdu.API.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.api\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211585C6-8E81-4F7C-AF02-64CD71AACA09}|OnlineEdu.API\\OnlineEdu.API.csproj|solutionrelative:onlineedu.api\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\areas\\admin\\views\\banner\\createbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\areas\\admin\\views\\banner\\createbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Areas\\Admin\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "OnlineEdu.WebUI\\Areas\\Admin\\Views\\About\\Index.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAowBQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T07:38:57.158Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "OnlineEdu.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "OnlineEdu.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-27T11:23:39.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AboutsController.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.API\\Controllers\\AboutsController.cs",
-              "RelativeDocumentMoniker": "OnlineEdu.API\\Controllers\\AboutsController.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.API\\Controllers\\AboutsController.cs",
-              "RelativeToolTip": "OnlineEdu.API\\Controllers\\AboutsController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Title": "UpdateBannerDto.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\DTOs\\BannerDtos\\UpdateBannerDto.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\DTOs\\BannerDtos\\UpdateBannerDto.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\DTOs\\BannerDtos\\UpdateBannerDto.cs",
+              "RelativeToolTip": "OnlineEdu.WebUI\\DTOs\\BannerDtos\\UpdateBannerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T10:22:04.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateAbout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Views\\About\\UpdateAbout.cshtml",
-              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Areas\\Admin\\Views\\About\\UpdateAbout.cshtml",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Views\\About\\UpdateAbout.cshtml",
-              "RelativeToolTip": "OnlineEdu.WebUI\\Areas\\Admin\\Views\\About\\UpdateAbout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAowB8AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T10:19:16.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateAbout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Views\\About\\CreateAbout.cshtml",
-              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Areas\\Admin\\Views\\About\\CreateAbout.cshtml",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Views\\About\\CreateAbout.cshtml",
-              "RelativeToolTip": "OnlineEdu.WebUI\\Areas\\Admin\\Views\\About\\CreateAbout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T08:49:48.033Z",
+              "WhenOpened": "2024-08-27T13:07:24.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\AboutController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAuwCUAAAA9AAAA",
+              "Title": "UpdateBanner.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Views\\Banner\\UpdateBanner.cshtml",
+              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Areas\\Admin\\Views\\Banner\\UpdateBanner.cshtml",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Views\\Banner\\UpdateBanner.cshtml",
+              "RelativeToolTip": "OnlineEdu.WebUI\\Areas\\Admin\\Views\\Banner\\UpdateBanner.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T13:06:57.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateBanner.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Views\\Banner\\CreateBanner.cshtml",
+              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Areas\\Admin\\Views\\Banner\\CreateBanner.cshtml",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Views\\Banner\\CreateBanner.cshtml",
+              "RelativeToolTip": "OnlineEdu.WebUI\\Areas\\Admin\\Views\\Banner\\CreateBanner.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T12:53:48.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Views\\Banner\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Areas\\Admin\\Views\\Banner\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Views\\Banner\\Index.cshtml",
+              "RelativeToolTip": "OnlineEdu.WebUI\\Areas\\Admin\\Views\\Banner\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T12:49:52.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BannerController.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\BannerController.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\BannerController.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\BannerController.cs",
+              "RelativeToolTip": "OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\BannerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T07:37:59.37Z",
+              "WhenOpened": "2024-08-27T12:37:11.174Z",
               "EditorCaption": ""
             }
           ]
