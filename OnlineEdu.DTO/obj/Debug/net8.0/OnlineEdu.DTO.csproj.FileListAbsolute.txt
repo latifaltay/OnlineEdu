@@ -13,4 +13,4 @@ C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\refint\OnlineEdu.DTO.dll
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.pdb
 C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\ref\OnlineEdu.DTO.dll
-C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEd.9E38B2D2.Up2Date
+C:\Users\ELEYDEV\Desktop\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.csproj.CopyComplete
