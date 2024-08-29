@@ -10,9 +10,18 @@ using System.Threading.Tasks;
 
 namespace OnlineEdu.DataAccess.Repositories
 {
-    //                                  Primary constructor
-    public class GenericRepository<T>(OnlineEduContext _context) : IRepository<T> where T : class, new()
+    ////                                  Primary constructor
+    //public class GenericRepository<T>(OnlineEduContext _context) : IRepository<T> where T : class, new()
+
+    public class GenericRepository<T> : IRepository<T> where T : class, new()
     {
+        protected readonly OnlineEduContext _context;
+
+        public GenericRepository(OnlineEduContext context)
+        {
+            _context = context;
+        }
+
         public DbSet<T> Table { get => _context.Set<T>(); }
 
         public int Count()

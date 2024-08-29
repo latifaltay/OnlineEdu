@@ -10,7 +10,7 @@ namespace OnlineEdu.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CoursesController(IGenericService<Course> _courseService, IMapper _mapper) : ControllerBase
+    public class CoursesController(ICourseService _courseService, IMapper _mapper) : ControllerBase
     {
         [HttpGet]
         public IActionResult Get()
@@ -48,5 +48,22 @@ namespace OnlineEdu.API.Controllers
             _courseService.TUpdate(value);
             return Ok("Kurs Alanı Güncellendi!");
         }
+
+
+        [HttpGet("ShowOnHome/{id}")]
+        public IActionResult ShowOnHome(int id) 
+        {
+            _courseService.TShowOnHome(id);
+            return Ok("Anasayfada Gösteriliyor");
+        }
+
+
+        [HttpGet("DontShowOnHome/{id}")]
+        public IActionResult DontShowOnHome(int id)
+        {
+            _courseService.TDontShowOnHome(id);
+            return Ok("Anasayfada Gösterilmiyor");
+        }
+
     }
 }

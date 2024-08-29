@@ -131,7 +131,7 @@ namespace OnlineEdu.DataAccess.Migrations
 
                     b.HasKey("BlogCategoryId");
 
-                    b.ToTable("BlogCategorys");
+                    b.ToTable("BlogCategories");
                 });
 
             modelBuilder.Entity("OnlineEdu.Entity.Entities.Contact", b =>
@@ -220,7 +220,7 @@ namespace OnlineEdu.DataAccess.Migrations
 
                     b.HasKey("CourseCategoryId");
 
-                    b.ToTable("CourseCategorys");
+                    b.ToTable("CourseCategories");
                 });
 
             modelBuilder.Entity("OnlineEdu.Entity.Entities.Message", b =>
