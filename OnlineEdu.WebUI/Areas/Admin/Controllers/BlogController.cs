@@ -14,18 +14,18 @@ namespace OnlineEdu.WebUI.Areas.Admin.Controllers
 
         public async Task CategoryDropdown()
         {
-            var categoryList = await _client.GetFromJsonAsync<List<ResultBlogCategoryDto>>("categories");
+            var categoryList = await _client.GetFromJsonAsync<List<ResultBlogCategoryDto>>("blogCategories");
 
-            List<SelectListItem> categories = (from X in categoryList
+            List<SelectListItem> blogCategories = (from x in categoryList
                                                select new SelectListItem
                                                {
-                                                   Text = X.Name,
-                                                   Value = X.BlogCategoryId.ToString(),
+                                                   Text = x.Name,
+                                                   Value = x.BlogCategoryId.ToString(),
                                                }).ToList();
 
             // LİNQ ile modern hali
             /*
-            List<SelectListItem> categories = categoryList
+            List<SelectListItem> blogCategories = categoryList
                 .Select(X => new SelectListItem
                 {
                     Text = X.Name,
@@ -34,7 +34,7 @@ namespace OnlineEdu.WebUI.Areas.Admin.Controllers
                 .ToList();
             */
 
-            ViewBag.Categories = categories;
+            ViewBag.Categories = blogCategories;
         }
 
 
@@ -68,12 +68,13 @@ namespace OnlineEdu.WebUI.Areas.Admin.Controllers
         [HttpGet]
         public async Task<IActionResult> UpdateBlog(int id) 
         {
+            await CategoryDropdown();
             var value = await _client.GetFromJsonAsync<UpdateBlogDto>("blogs/" + id);
             return View(value);
         }
 
 
-        [HttpGet]
+        [HttpPost]
         public async Task<IActionResult> UpdateBlog(UpdateBlogDto updateBlogDto) 
         {
             await _client.PutAsJsonAsync("blogs", updateBlogDto);
