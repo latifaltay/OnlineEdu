@@ -11,7 +11,6 @@ namespace OnlineEdu.WebUI.Areas.Admin.Controllers
     {
         private readonly HttpClient _client = HttpClientInstance.CreateClient();
 
-
         public async Task<IActionResult> Index()
         {
 

@@ -35,6 +35,7 @@ namespace OnlineEdu.WebUI.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [HttpGet]
         public async Task<IActionResult> UpdateAbout(int id) 
         {
             var values = await _client.GetFromJsonAsync<UpdateAboutDto>($"abouts/{id}");
