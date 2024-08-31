@@ -65,5 +65,13 @@ namespace OnlineEdu.API.Controllers
             return Ok("Anasayfada Gösterilmiyor");
         }
 
+
+        [HttpGet("GetActiveCourses")]
+        public async Task<IActionResult> GetActiveCourses() 
+        {
+            var valeus = _courseService.TGetFilteredList(x => x.IsShown == true);
+            return Ok(valeus);
+        }
+
     }
 }
