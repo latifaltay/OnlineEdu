@@ -1,4 +1,6 @@
-﻿namespace OnlineEdu.WebUI.DTOs.UserDtos
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OnlineEdu.WebUI.DTOs.UserDtos
 {
     public class UserRegisterDto
     {
@@ -7,6 +9,7 @@
         public string UserName { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
+        [Compare("Password", ErrorMessage ="Parolalar Eşleşmiyor!")]
         public string ConfirmPassword { get; set; }
     }
 }

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\validators\\customerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\validators\\customerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\views\\register\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\views\\register\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,16 +15,20 @@
       "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\dtos\\userdtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\dtos\\userdtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\eleydev\\desktop\\onlineedu\\onlineedu.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8B7101A-F94A-44A9-B699-90D2EC6646D1}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,45 +43,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CustomErrorDescriber.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Validators\\CustomErrorDescriber.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Validators\\CustomErrorDescriber.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Validators\\CustomErrorDescriber.cs",
+              "RelativeToolTip": "OnlineEdu.WebUI\\Validators\\CustomErrorDescriber.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:46:53.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\DTOs\\UserDtos\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\DTOs\\UserDtos\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\DTOs\\UserDtos\\UserRegisterDto.cs",
+              "RelativeToolTip": "OnlineEdu.WebUI\\DTOs\\UserDtos\\UserRegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:31:05.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Signup.cshtml",
               "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Views\\Register\\Signup.cshtml",
               "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Views\\Register\\Signup.cshtml",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Views\\Register\\Signup.cshtml*",
-              "RelativeToolTip": "OnlineEdu.WebUI\\Views\\Register\\Signup.cshtml*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Views\\Register\\Signup.cshtml",
+              "RelativeToolTip": "OnlineEdu.WebUI\\Views\\Register\\Signup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-01T20:18:34.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RegisterController.cs",
               "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Controllers\\RegisterController.cs",
               "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Controllers\\RegisterController.cs",
               "RelativeToolTip": "OnlineEdu.WebUI\\Controllers\\RegisterController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T20:12:35.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Program.cs",
               "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Program.cs",
               "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Program.cs",
               "RelativeToolTip": "OnlineEdu.WebUI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T20:09:41.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Services\\UserServices\\UserService.cs",
               "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Services\\UserServices\\UserService.cs",
@@ -86,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\OnlineEdu\\OnlineEdu.WebUI\\Services\\UserServices\\IUserService.cs",
               "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Services\\UserServices\\IUserService.cs",
