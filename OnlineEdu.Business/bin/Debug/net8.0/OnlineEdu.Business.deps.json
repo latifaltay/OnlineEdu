@@ -618,11 +618,13 @@
       },
       "OnlineEdu.DataAccess/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.8",
           "OnlineEdu.Entity": "1.0.0"
         },
         "runtime": {
-          "OnlineEdu.DataAccess.dll": {}
+          "OnlineEdu.DataAccess.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OnlineEdu.Entity/1.0.0": {
@@ -632,7 +634,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
         },
         "runtime": {
-          "OnlineEdu.Entity.dll": {}
+          "OnlineEdu.Entity.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
